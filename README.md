@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Affective Computing
 - 🌱 I’m currently learning Thermal imaging 
-- 👯 I’m looking to collaborate on a NSF Project
 - 💬 Ask me about Affective Computing, Machine Learning, Computer Vision
 - 📫 How to reach me: [My Bio](https://f-kiran.github.io/)
 
