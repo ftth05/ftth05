@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi, I'm Fettah Kiran 👋
 
-### I'm Fettah
+<h3 align="left"> 💻 &nbsp;About Me </h3>
 
-<h3> 💻 &nbsp;About Me </h3>
+I am currently a Ph.D. student conducting research in the Affective & Data Computing [ACDC](https://cpl.uh.edu/index.php/) lab under the esteemed guidance of Prof. Ioannis Pavlidis. My academic journey includes an M.S. in Computer Science earned at Louisiana State University.
+
+My Ph.D. research work is a pivotal part of the NSF-funded [Affective Math]() project, where I am deeply involved in various aspects of the research process. This includes designing and conducting experiments, meticulously analyzing data, and actively contributing to the development of sophisticated mathematical models. My dedication to this project allows me to explore and contribute to the exciting intersection of affective computing and mathematics, furthering our understanding of these fields.
 
 <!-- 
 **ftth05/ftth05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
