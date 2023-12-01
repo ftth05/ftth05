@@ -1,6 +1,10 @@
 ### Hi, I'm Fettah Kiran 👋
 
-<h3 align="left"> 💻 &nbsp;About Me </h3>
+## Connect with me :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/fettahkiran/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:ftth05@gmail.com)
+
+## About Me
 
 I am currently a Ph.D. student conducting research in the Affective & Data Computing [ACDC](https://cpl.uh.edu/index.php/) lab under the esteemed guidance of Prof. Ioannis Pavlidis. My academic journey includes an M.S. in Computer Science earned at Louisiana State University.
 
