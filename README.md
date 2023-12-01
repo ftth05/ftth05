@@ -12,7 +12,7 @@ My Ph.D. research work is a pivotal part of the NSF-funded [Affective Math]() pr
 
 - _Most Used Languages_
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ftth05&langs_count=9&theme=tokyonight&layout=compact&hide=makefile,jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ftth05&count_private=true&langs_count=9&theme=tokyonight&layout=compact&hide=makefile,jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ftth05&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ftth05&theme=tokyonight)
