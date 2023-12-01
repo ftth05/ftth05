@@ -6,6 +6,12 @@ I am currently a Ph.D. student conducting research in the Affective & Data Compu
 
 My Ph.D. research work is a pivotal part of the NSF-funded [Affective Math]() project, where I am deeply involved in various aspects of the research process. This includes designing and conducting experiments, meticulously analyzing data, and actively contributing to the development of sophisticated mathematical models. My dedication to this project allows me to explore and contribute to the exciting intersection of affective computing and mathematics, furthering our understanding of these fields.
 
+
+## Stats
+![Fettah Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftth05&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile)
+
+
+
 <!-- 
 **ftth05/ftth05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
