@@ -10,7 +10,12 @@ My Ph.D. research work is a pivotal part of the NSF-funded [Affective Math]() pr
 ## Stats
 ![Fettah Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftth05&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile)
 
+- _Most Used Languages_
 
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ftth05&langs_count=9&theme=tokyonight&layout=compact&hide=makefile,jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ftth05&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ftth05&theme=tokyonight)
 
 <!-- 
 **ftth05/ftth05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
