@@ -3,7 +3,7 @@
 ## Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/fettahkiran/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:ftth05@gmail.com)
-[![Personal Website](https://img.shields.io/badge/Bio-Open-8A2BE2)](https://f-kiran.github.io/){:target="_blank"}
+[![Personal Website](https://img.shields.io/badge/Bio-Open-8A2BE2)](https://f-kiran.github.io/)
 
 
 ## About Me
