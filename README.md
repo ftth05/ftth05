@@ -1,5 +1,7 @@
 ### Hi, I'm Fettah Kiran 👋
 
+# 💫 About Me ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 ## Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/fettahkiran/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:ftth05@gmail.com)
