@@ -1,27 +1,35 @@
 # 💫 About Me ![](https://komarev.com/ghpvc/?username=ftth05&color=green)
 
-### Hi, I'm Fettah Kiran 👋
+## Hi there, my name is Fettah Kiran 👋
 
-## Connect with me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/fettahkiran/)
+I am currently a Ph.D. student conducting research in the Affective & Data Computing [ACDC](https://cpl.uh.edu/index.php/) lab at the University of Houston under the esteemed guidance of Prof. Ioannis Pavlidis.
+
+My Ph.D. research work is on Affective Computing which is a captivating field that explores the interaction between humans and computers, particularly focusing on understanding and responding to human emotions.
+  
+💡 **Ongoing Project: Affective Computing in Math Learning**
+
+In this NSF-funded project, we employ Affective Computing techniques to delve into the emotional responses of students facing challenges in learning math. A unique aspect of our approach is the integration of thermal imaging to monitor stress levels during math exams.
+
+📚 **Expertise:**
+- Affective Computing
+- Machine Learning
+- Computer Vision
+
+🤝 **Open for Collaboration:**
+We welcome collaboration and discussion on Affective Computing, machine learning, and related fields. 
+
+If you have insights or questions, let's connect!
+
+
+# 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-informational)](https://www.linkedin.com/in/fettahkiran/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey)](https://github.com/ftth05)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:ftth05@gmail.com)
 [![Personal Website](https://img.shields.io/badge/Bio-Open-8A2BE2)](https://f-kiran.github.io/)
 
 
-## About Me
 
-- 🔭 I’m currently working on Affective Computing
-- 🌱 I’m currently learning Thermal imaging 
-- 💬 Ask me about Affective Computing, Machine Learning, Computer Vision
-- 📫 How to reach me: [My Bio](https://f-kiran.github.io/)
-
-<!--  
-I am currently a Ph.D. student conducting research in the Affective & Data Computing [ACDC](https://cpl.uh.edu/index.php/) lab under the esteemed guidance of Prof. Ioannis Pavlidis. My academic journey includes an M.S. in Computer Science earned at Louisiana State University.
-
-My Ph.D. research work is a pivotal part of the NSF-funded [Affective Math]() project, where I am deeply involved in various aspects of the research process. This includes designing and conducting experiments, meticulously analyzing data, and actively contributing to the development of sophisticated mathematical models. My dedication to this project allows me to explore and contribute to the exciting intersection of affective computing and mathematics, furthering our understanding of these fields.
--->
-
-## Stats
+# Git Stats
 ![Fettah Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ftth05&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile)
 
 - _Most Used Languages_
